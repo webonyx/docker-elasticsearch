@@ -1,0 +1,1 @@
+bits = doc[field].value; if (exclude) { return (bits & value) == 0 ? true : false } else { return (bits & value) > 0 ? true : false }
